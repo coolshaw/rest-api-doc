@@ -1,0 +1,28 @@
+{
+  "name": "rest-api-doc",
+  "version": "0.0.1",
+  "description": "Interface that document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolshaw/rest-api-doc.git"
+  },
+  "keywords": [
+    "api",
+    "doc",
+    "mode"
+  ],
+  "author": "coolshaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolshaw/rest-api-doc/issues"
+  },
+  "homepage": "https://github.com/coolshaw/rest-api-doc#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "open": "0.0.5"
+  }
+}
